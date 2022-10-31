@@ -1,4 +1,3 @@
-import { getDefaultNormalizer } from "@testing-library/react"
 
 const matchData = [
   {
